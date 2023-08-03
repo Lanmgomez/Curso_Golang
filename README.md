@@ -1,7 +1,3 @@
-// go trabalha com pacotes, sempre chame o pacote no começo da funç~ao e o nome dele,
-
-// Para compilar o arquivo em um bin'ario, podemos colocar o comando:
-// go build nome-do-arquivo
-
-// ele cria acima um arquivo de mesmo nome, e basta entrar nele:
-//  ./nome-do-arquivo , no terminal
+// Ponteiro 'e uma variavel que armazena o valor de outra variavel
+// esse armazenamento faz parte de um endereço, que tbm podemos acessar pelo ponteiro
+// podemos criar uma nova variavel, linkar com o ponteiro e atualizar o valor daquele espaço de memoria
